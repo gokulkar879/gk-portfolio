@@ -1,0 +1,33 @@
+.about {
+
+}
+
+.intro {
+
+}
+
+.skills {
+   
+}
+
+.skills__heading {
+    text-align: center;
+}
+
+.skills__heading  p {
+    font-size: 3.4rem;
+    font-weight: bold;
+    color: grey;
+    margin-bottom: 10px;
+}
+
+.skills__values {
+    width: 90vw;
+    max-width: 1170px;
+    display: grid;
+    gap: 2rem;
+    margin: 0 auto;
+    padding-bottom: 5rem;
+    padding-top: 3rem;
+    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+}

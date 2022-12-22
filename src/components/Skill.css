@@ -1,0 +1,22 @@
+.skill {
+    position: relative;
+    overflow: hidden;
+    box-shadow: 0 0 10px rgba(13, 9, 9, 0.512);
+    padding: 10px;
+    transition: .3s;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.skill:hover {
+    transform: scale(1.05);
+}
+
+.skill img {
+    width: 80%;
+    height: 80%;
+    display: block;
+    object-fit: contain;
+}

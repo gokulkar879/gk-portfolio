@@ -1,0 +1,15 @@
+.contact {
+
+}
+
+.socials {
+   margin: 4rem 0;
+   text-align: center;
+}
+
+.icons {
+    color: rgb(226, 217, 217);
+    width: 4rem !important;
+    height: 4rem !important;
+    margin: 2rem;
+}

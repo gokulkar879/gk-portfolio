@@ -3,6 +3,8 @@ import Node from './node-js.svg';
 import Firebase from './firebase.svg';
 import Reactlogo from './react.svg'
 import C from './c.svg'
+import Hardhat from './hardhat-icon.svg';
+import Eth from './ethereum.svg';
 
 
 export const logos = [
@@ -10,5 +12,7 @@ export const logos = [
     Js,
     Node,
     Firebase,
-    Reactlogo
+    Reactlogo,
+    Hardhat,
+    Eth
 ]

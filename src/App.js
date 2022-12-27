@@ -10,20 +10,18 @@ import Projects from './pages/Projects';
 function App() {
   return (
     <div className='App'>
-      <div className='area'>
-        <ul className='circles'>
+      <ul className='circles'>
         <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-        </ul>
-      </div>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+      </ul>
       <Router>
         <Navbar />
         <Routes>

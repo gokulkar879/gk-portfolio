@@ -2,6 +2,7 @@ import pic1 from './pic1.png'
 import pic2 from './pic2.png'
 import pic3 from './pic3.png'
 import pic4 from './pic4.png'
+import pic5 from './pic5.png'
 
 const data_projects = [
     {
@@ -31,6 +32,13 @@ const data_projects = [
         "imgUrl": pic4,
         "liveSite": "https://illustrious-horse-d2cb97.netlify.app/",
         "code": "https://github.com/gokulkar879/movie-clone"
+    },
+    {
+        "name": "NFT-Explorer",
+        "skills": ["React", "Alchemy-sdk", "API"],
+        "imgUrl": pic5,
+        "liveSite": "https://63ae0377dbb59b3502dcaf5a--dazzling-baklava-10d7d8.netlify.app/",
+        "code": "https://github.com/gokulkar879/NftGallery"
     }
 ];
 

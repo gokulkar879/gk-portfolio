@@ -22,8 +22,8 @@ function Projects() {
                     }
                   </div>
                   <div className='project-ll'>
-                    <a href={`${liveSite}`} target="_blank">Site</a>
-                    <a href={`${code}`} target="_blank">Code</a>
+                    <a href={`${liveSite}`} target="_blank" className='links'>Site</a>
+                    <a href={`${code}`} target="_blank" className='links'>Code</a>
                   </div>
 
                 </div>

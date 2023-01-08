@@ -38,8 +38,7 @@
 .home__right img {
     border: 4px solid white;
     box-shadow: 10px 10px rgba(225, 218, 218, 0.807);
-    transition: .5s;
-    animation: animate1 25s linear infinite;
+    border-radius: 50%;
     
 }
 
